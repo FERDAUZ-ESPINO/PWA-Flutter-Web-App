@@ -78,9 +78,9 @@ class BusinessCard extends StatelessWidget {
                   height:120,
                   decoration: const BoxDecoration(
                     shape: BoxShape.circle,
-                    color: Colors.red,
+
                     image: DecorationImage(
-                      image:NetworkImage("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc2%2Fdd%2F7f%2Fc2dd7f72388a2f6584519747dcbcfed0.jpg&f=1&nofb=1&ipt=3d47636cc28dc78947e98220a9d93db876c23b7edc410707837c5d6456712923&ipo=images"),
+                      image:NetworkImage("https://github.com/FERDAUZ-ESPINO/PWA-Flutter-Web-App/blob/master/images/profile.png"),
                       fit: BoxFit.cover,
                     ),
                   ),
